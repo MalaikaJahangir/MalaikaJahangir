@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MalaikaJahangir
 - 👀 I’m interested in Artificial Intelligence and Software Engineering.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and web development.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me @malaikajahangir06@gmail.com
 - 😄 Pronouns: ASER
